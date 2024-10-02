@@ -9,4 +9,5 @@ git submodule add git@github.com:davsk/font.git
 ```
 ## Legal
 Anyone contributing to this libary must ensure that all copyright and licenses are observed.
-Copyright (c) Davsk Ltd Co 2024
+
+© Davsk Ltd Co 2024
